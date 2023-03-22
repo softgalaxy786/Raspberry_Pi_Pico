@@ -14,6 +14,12 @@
 # Reference Links
 # 1. https://docs.micropython.org
 #
+# Notes:
+# 1. How to run this program to run on powering up Rasperrby Pi Pico
+#    - Rename this file name to main.py, if using Thonny, use File->Save a Copy option to upload to Raspeberry Pi Pico
+#
+#
+
 
 '''
 #------------------------------------------------------------------------------------------------------
