@@ -16,7 +16,7 @@
 #
 # Notes:
 # 1. How to auto execute this program on powering up Rasperrby Pi Pico
-#    - Rename this file name to main.py, if using Thonny, use File->Save a Copy option to upload to Raspeberry Pi Pico
+#    - Rename this file to main.py, if using Thonny, use File->Save a Copy option to upload to Raspeberry Pi Pico
 #
 #
 
